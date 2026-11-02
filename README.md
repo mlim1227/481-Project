@@ -1,2 +1,10 @@
-# 481-Project
-a playable implementation of solitaire together with an automated solver capable of selecting moves
+481 Project - Solitaire Solver
+Comparing BFS, DFS, A* and Greedy Best-First Search for automated Solitaire.
+
+Project Overview
+
+A Python/Pygame implementation of Solitaire with automated AI solvers and performance comparisons.
+
+Getting Started
+
+See README.txt for installation and execution instructions.
